@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben Abdulmuin Said!
+# 👋 Merhaba, ben Abdulmuin!
 
 ## 👀 İlgi Alanlarım
 - Yazılım geliştirme
