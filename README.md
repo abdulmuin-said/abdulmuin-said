@@ -2,8 +2,7 @@
 
 ## 👀 İlgi Alanlarım
 - Yazılım geliştirme
-- Veri bilimi ve makine öğrenimi
-- Açık kaynak projeleri
+- Siber Güvenlik
 
 ## 🌱 Şu anda öğreniyorum
 - C# & Python & HTML & PHP
