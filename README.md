@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BURAYA_ISSUEDAN_KOPYALADIGIN_LINKI_YAPISTIR" width="100%" alt="Abdulmuin Banner" />
+  <img src="https://github.com/abdulmuin-said/abdulmuin-said/blob/main/kapak.png" width="100%" alt="Abdulmuin Banner" />
 </div>
 <br/>
 ### Merhaba, Ben Abdulmuin! 👋
