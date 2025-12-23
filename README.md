@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="kapak.png" width="100%" alt="Abdulmuin Said Banner" />
+</div>
+<br/>
 ### Merhaba, Ben Abdulmuin! 👋
 
 <p align="left"> 
