@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://github.com/abdulmuin-said/abdulmuin-said/blob/main/kapak.png" width="100%" alt="Abdulmuin Banner" />
+  <img src="https://raw.githubusercontent.com/abdulmuin-said/abdulmuin-said/refs/heads/main/kapak.png" width="100%" alt="Abdulmuin Said Banner" />
 </div>
 <br/>
+
 ### Merhaba, Ben Abdulmuin! 👋
 
 <p align="left"> 
@@ -14,7 +15,7 @@ Kastamonu Üniversitesi **Bilgisayar Mühendisliği 2. Sınıf** öğrencisiyim.
 
 - 🔭 Şu anda **Kütüphane Otomasyon Sistemi (.NET Core & PostgreSQL)** üzerinde çalışıyorum.
 - 🚀 **Kurumsal Kaynak Yönetimi (ERP)** ve **İş Süreçleri Otomasyonu** alanlarında ölçeklenebilir çözümler geliştiriyorum.
-- 💼 **Flutter** ile hem iOS hem Android uyumlu platformlar arası mobil uygulamalar  , hemde web üzerinde çalışan otomasyonlar ve desktop uygulamaları tasarlıyorum.
+- 💼 **Flutter** ile hem iOS/Android mobil uygulamalar, hem de **Web** ve **Masaüstü (Desktop)** üzerinde çalışan çapraz platform otomasyon sistemleri tasarlıyorum.
 - 📫 Bana ulaşın: **abdulmuinsaid255@gmail.com**
 
 ---
